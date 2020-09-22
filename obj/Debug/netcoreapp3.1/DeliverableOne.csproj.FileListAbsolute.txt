@@ -1,0 +1,13 @@
+D:\Scripts\prework\deliverableOne\DeliverableOne\bin\Debug\netcoreapp3.1\DeliverableOne.exe
+D:\Scripts\prework\deliverableOne\DeliverableOne\bin\Debug\netcoreapp3.1\DeliverableOne.deps.json
+D:\Scripts\prework\deliverableOne\DeliverableOne\bin\Debug\netcoreapp3.1\DeliverableOne.runtimeconfig.json
+D:\Scripts\prework\deliverableOne\DeliverableOne\bin\Debug\netcoreapp3.1\DeliverableOne.runtimeconfig.dev.json
+D:\Scripts\prework\deliverableOne\DeliverableOne\bin\Debug\netcoreapp3.1\DeliverableOne.dll
+D:\Scripts\prework\deliverableOne\DeliverableOne\bin\Debug\netcoreapp3.1\DeliverableOne.pdb
+D:\Scripts\prework\deliverableOne\DeliverableOne\obj\Debug\netcoreapp3.1\DeliverableOne.csprojAssemblyReference.cache
+D:\Scripts\prework\deliverableOne\DeliverableOne\obj\Debug\netcoreapp3.1\DeliverableOne.AssemblyInfoInputs.cache
+D:\Scripts\prework\deliverableOne\DeliverableOne\obj\Debug\netcoreapp3.1\DeliverableOne.AssemblyInfo.cs
+D:\Scripts\prework\deliverableOne\DeliverableOne\obj\Debug\netcoreapp3.1\DeliverableOne.csproj.CoreCompileInputs.cache
+D:\Scripts\prework\deliverableOne\DeliverableOne\obj\Debug\netcoreapp3.1\DeliverableOne.dll
+D:\Scripts\prework\deliverableOne\DeliverableOne\obj\Debug\netcoreapp3.1\DeliverableOne.pdb
+D:\Scripts\prework\deliverableOne\DeliverableOne\obj\Debug\netcoreapp3.1\DeliverableOne.genruntimeconfig.cache
